@@ -1,2 +1,6 @@
 tesseract-ocr
 tesseract-ocr-spa
+tesseract-ocr-ben
+tesseract-ocr-kor
+tesseract-ocr-chi-sim
+tesseract-ocr-jpn
